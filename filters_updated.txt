@@ -34,6 +34,9 @@ kissasian.sh##+js(abort-current-inline-script.js, setHideAdsCd)
 kissasian.sh##+js(abort-current-inline-script.js, hideAdsCd)
 kissasian.sh##+js(abort-current-inline-script.js, hideAds)
 
+kissasian.sh##+js(abort-current-inline-script.js, usingFlashV1)
+kissasian.sh##+js(abort-current-inline-script.js, correctAdsPosition)
+
 kissasian.sh###divContentVideo:style(display: block !important)
 
 # ==========
