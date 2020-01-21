@@ -1,5 +1,5 @@
 
-! Title: Kiss Filters
+! Title: Kiss Filters (UPDATED)
 ! Expires: 1 days
 ! Homepage: https://github.com/Yumire/kiss-filters
 ! Description: A list of filters for use with the various Kiss sites.
