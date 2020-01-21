@@ -1,2 +1,2 @@
 # Kiss-Filters-Updated
-Kiss Filters Updated In Addition to Yumire's Filters for Kissanime and Kissmanga
+Kiss Filters Updated From Yumire --- Kissasian
