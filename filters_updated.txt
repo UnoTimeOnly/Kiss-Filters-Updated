@@ -30,9 +30,9 @@ kissasian.sh##.videoAdClose
 kissasian.sh###adsIfrme7
 
 # One of these should work ¯\_(ツ)_/¯
-kissasian.sh##+js(abort-current-inline-script.js, InitCloseButton)
-kissasian.sh##+js(abort-current-inline-script.js, isClickHide)
-kissasian.sh##+js(abort-current-inline-script.js, AddCloseButton)
+kissasian.sh##+js(abort-current-inline-script.js, setHideAdsCd)
+kissasian.sh##+js(abort-current-inline-script.js, hideAdsCd)
+kissasian.sh##+js(abort-current-inline-script.js, hideAds)
 
 kissasian.sh###divContentVideo:style(display: block !important)
 
