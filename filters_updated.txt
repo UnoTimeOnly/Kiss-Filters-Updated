@@ -25,9 +25,9 @@ kissanime.ru###divContentVideo:style(display: block !important)
 # ==========
 
 ||kissasian.sh^*.aspx$subdocument,first-party
-kissanime.ru##div.divCloseBut
-kissanime.ru##.videoAdClose
-kissanime.ru###adsIfrme7
+kissasian.sh##div.divCloseBut
+kissasian.sh##.videoAdClose
+kissasian.sh###adsIfrme7
 
 # One of these should work ¯\_(ツ)_/¯
 kissasian.sh##+js(abort-current-inline-script.js, InitCloseButton)
